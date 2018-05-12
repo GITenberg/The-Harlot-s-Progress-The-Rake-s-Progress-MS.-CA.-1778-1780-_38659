@@ -1,0 +1,34 @@
+_repo: The-Harlot-s-Progress-The-Rake-s-Progress-MS.-CA.-1778-1780-_38659
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Klinger, Mary F.
+    birthdate: 1938
+    gutenberg_agent_id: '39598'
+    url: http://www.gutenberg.org/2009/agents/39598
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cibber, Theophilus
+    birthdate: 1703
+    deathdate: 1758
+    gutenberg_agent_id: '3592'
+    url: http://www.gutenberg.org/2009/agents/3592
+    wikipedia: http://en.wikipedia.org/wiki/Theophilus_Cibber
+description: ''
+gutenberg_issued: '2012-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38659'
+  lccn: '78319845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 18th century'
+- !lcc 'PR'
+title: The Harlot's Progress (1733), The Rake's Progress (Ms., ca. 1778-1780)
+url: http://www.gutenberg.org/ebooks/38659
