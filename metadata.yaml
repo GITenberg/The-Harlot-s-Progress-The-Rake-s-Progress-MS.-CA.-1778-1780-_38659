@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3592
     wikipedia: http://en.wikipedia.org/wiki/Theophilus_Cibber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38659#The-Harlot-s-Progress-The-Rake-s-Progress-MS.-CA.-1778-1780-
 gutenberg_issued: '2012-01-24'
 gutenberg_type: Text
 identifiers:
